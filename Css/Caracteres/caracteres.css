@@ -1,0 +1,322 @@
+@charset "utf-8";
+.menu1 {
+    background-color: #101112;
+    margin-bottom: -155px;
+    padding-left: 0px;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    margin-left: -11px;
+    margin-right: -20px;
+    background-position: -12% -639%;
+    width: 100%;
+    padding-right: 0px;
+    bottom: 0px;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+.logo {
+    margin-top: -55px;
+}
+.nombre {
+    margin-left: -4px;
+    margin-top: -4px;
+    margin-bottom: -23px;
+    margin-right: -1px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    padding-top: 0px;
+    padding-right: 0px;
+    font-size: 40px;
+    color: #FFFFFF;
+    font-family: doppio-one;
+    font-style: normal;
+    font-weight: 400;
+    text-align: center;
+    width: 100%;
+}
+.servicios {
+    background-color: #FFFFFF;
+    margin-right: 128px;
+    color: #FFFFFF;
+    text-align: center;
+    border-radius: 39px;
+    margin-left: 1287px;
+    margin-top: -19px;
+}
+.servicios:hover  {
+    background-color: #E7E624;
+    color: #9D0CF1;
+}
+.banner {
+    background-image: url(../../Img/WhatsApp%20Image%202021-09-08%20at%2010.47.40%20PM.jpeg);
+    border-radius: 0px;
+    margin-left: -0px;
+    padding-bottom: 205px;
+}
+.texto1 {
+    color: #F7F7F7;
+    text-align: left;
+    margin-left: -6px;
+    margin-bottom: -116px;
+    padding-bottom: 0px;
+    padding-right: 31px;
+    padding-left: 9px;
+    margin-right: 1226px;
+    margin-top: -56px;
+    padding-top: 21px;
+    font-family: allerta;
+    font-style: normal;
+    font-weight: 400;
+}
+.DIV1 {
+    padding-bottom: 134px;
+    background-image: url(../../Img/WhatsApp%20Image%202021-09-08%20at%2010.47.40%20PM.jpeg);
+    margin-bottom: 1px;
+    margin-top: 10px;
+    padding-top: 43px;
+    padding-right: 1px;
+    padding-left: 8px;
+    margin-right: 808px;
+    margin-left: 2px;
+}
+.boton {
+}
+.botona {
+    text-decoration: none;
+    color: #1317D4;
+
+}
+.MAIN {
+    color: #FFFFFF;
+    font-family: allerta;
+    font-style: normal;
+    font-weight: 400;
+    text-align: left;
+    background-color: #1D58D0;
+    margin-bottom: -373px;
+    margin-top: 11px;
+    padding-top: 0px;
+    padding-right: 30px;
+    padding-left: 0px;
+    padding-bottom: 105px;
+    margin-right: 5px;
+    font-size: 30px;
+    margin-left: 0px;
+    background-position: 119% -234%;
+    width: 98%;
+}
+.img1 {
+    padding-bottom: 0px;
+    padding-top: 0px;
+    margin-top: 41px;
+    margin-left: 2px;
+    margin-bottom: -61px;
+    margin-right: 52px;
+    padding-left: 22px;
+    padding-right: 0px;
+}
+.EG {
+    margin-left: 423px;
+    margin-bottom: 103px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    margin-top: -149px;
+    font-weight: 600;
+    font-size: 77px;
+
+}
+.DISEÑADOR {
+    margin-left: 427px;
+    margin-top: -109px;
+    margin-bottom: 72px;
+    font-style: italic;
+}
+.tabla {
+    margin-top: 185px;
+    margin-bottom: -833px;
+    margin-right: 105px;
+    margin-left: -21px;
+    padding-top: 473px;
+    padding-bottom: 247px;
+    padding-right: 0px;
+    background-color: #000000;
+    padding-left: 646px;
+    width: 40%;
+}
+.texto2 {
+    margin-left: 13px;
+    margin-top: 166px;
+    margin-bottom: -204px;
+    padding-right: 0px;
+    padding-left: 0px;
+    padding-bottom: 0px;
+    padding-top: 0px;
+}
+.Menun_lateral {
+    width: 40%;
+    background-color: #020507;
+    height: 371px;
+    margin-top: 106px;
+    text-align: left;
+    float: left;
+    margin-bottom: -9px;
+    padding-bottom: 446px;
+    border-top-right-radius: 40px;
+    margin-right: -1px;
+    padding-right: 12px;
+    margin-left: 1px;
+    padding-left: 0px;
+}
+.Publicacion {
+    width: 54%;
+    background-color: #E9181C;
+    float: right;
+    margin-top: 109px;
+    margin-right: -30px;
+    margin-left: 0px;
+    margin-bottom: -5px;
+    padding-left: 106px;
+    padding-right: 0px;
+    padding-top: 55px;
+    height: 300px;
+}
+.articulo1 {
+    width: 100%;
+    background-color: #101112;
+    height: 42px;
+    margin-top: -56px;
+    margin-right: 0px;
+    margin-left: -106px;
+    padding-right: 107px;
+    padding-bottom: 0px;
+    text-align: center;
+}
+.articulo2 {
+    width: 100%;
+    background-color: #1D58D0;
+    height: 160px;
+    margin-left: -106px;
+    padding-right: 92px;
+    margin-top: -28px;
+    margin-bottom: -2px;
+    font-size: 28px;
+    padding-bottom: 283px;
+    text-align: justify;
+    padding-left: 15px;
+    padding-top: 0px;
+}
+.articulo3 {
+    padding-right: 107px;
+    background-color: #101112;
+    height: 43px;
+    min-width: 0px;
+    width: 100%;
+    margin-left: -106px;
+    text-align: center;
+}
+.articulo4 {
+    padding-right: 104px;
+    width: 100%;
+    background-color: #1D58D0;
+    height: 169px;
+    margin-left: -106px;
+    margin-right: 9px;
+    margin-top: -30px;
+    padding-bottom: 119px;
+    padding-left: 3px;
+}
+.contac {
+    margin-top: 5px;
+    margin-left: 5px;
+    text-align: center;
+    font-size: 41px;
+    font-weight: bold;
+}
+.correo {
+    margin-top: 0px;
+    margin-right: 9px;
+    margin-left: 6px;
+    font-style: normal;
+}
+.edi {
+    margin-top: -31px;
+    margin-left: 6px;
+    font-style: normal;
+    font-size: 21px;
+}
+.wed {
+    margin-top: -36px;
+    margin-left: 4px;
+    font-style: italic;
+    font-size: 21px;
+}
+.wed2 {
+    margin-left: 6px;
+    width: 0%;
+}
+.cel {
+}
+.cel23 {
+    padding-left: 6px;
+    padding-top: 0px;
+    margin-top: -33px;
+    margin-left: 1px;
+    font-style: italic;
+    font-size: 21px;
+}
+.skils {
+    width: 86%;
+    padding-right: 0px;
+    margin-right: 10px;
+    margin-left: 37px;
+}
+.piepagina {
+    background-color: #1A40F0;
+    width: 253%;
+    clear: both;
+    margin-bottom: 0px;
+    margin-top: -118px;
+    padding-top: 0px;
+    padding-bottom: 28px;
+    border-radius: 0px 0px 30px 30px;
+}
+.col {
+    text-align: center;
+    margin-top: 120px;
+    font-style: italic;
+    min-width: 0px;
+    font-size: 18px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    margin-bottom: -35px;
+}
+.face {
+    margin-top: -20px;
+    float: right;
+    margin-left: -14px;
+    margin-right: 20px;
+}
+.insta {
+    clear: none;
+    width: 0px;
+    padding-right: 22px;
+    margin-left: 0px;
+    margin-top: -20px;
+    float: right;
+    margin-right: 100px;
+}
+.whats {
+    margin-left: 0px;
+    margin-right: 110px;
+    padding-right: 0px;
+    padding-left: 0px;
+    width: 0px;
+    margin-bottom: 519px;
+    margin-top: -20px;
+    float: right;
+}
+.redes {
+    text-align: right;
+    padding-right: 54px;
+    padding-bottom: 13px;
+}
